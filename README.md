@@ -1,6 +1,6 @@
 ### Here is what I'm working on 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true&theme=tokyonight)
 
 
 
