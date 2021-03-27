@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... CarRental Project
 - 🌱 I’m currently learning ... Angular
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ... Angular or C#
+- 🤔 I’m looking for help with ... Angular
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: ... @denizb04 
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... I'm rookie
 -->
