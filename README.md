@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin&layout=compact)](https://github.com/denizbilgin/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizbilgin&repo=github-readme-stats)](https://github.com/denizbilgin/CarRental-Front-end)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizbilgin&repo=github-readme-stats)](https://github.com/denizbilgin/CarRental-Front-End)
 
 
 
