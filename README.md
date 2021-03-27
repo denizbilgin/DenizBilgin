@@ -1,26 +1,24 @@
-### Hi There! 👋
+### Hi there 👋, my name is Arturs
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true&theme=vue)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin&layout=compact)](https://github.com/denizbilgin/github-readme-stats)
+Skills: VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on that
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=denizbilgin&repo=CarRental-Front-End)](https://github.com/denizbilgin/CarRental-Front-End)
+- 🔭 I’m currently working on this page. 
 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denizbilgin)  
 
-<!--
-**denizbilgin/DenizBilgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ... CarRental Project
-- 🌱 I’m currently learning ... Angular
-- 👯 I’m looking to collaborate on ... Angular or C#
-- 🤔 I’m looking for help with ... Angular
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ... @denizb04 
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I'm rookie
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=denizbilgin)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=denizbilgin)  
+
+![Profile views](https://gpvc.arturio.dev/denizbilgin)  
