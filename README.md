@@ -1,24 +1,18 @@
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, my name is Deniz
+#### Developer
+![Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYt4k-ZIbakIlAb2KumaLY0ZJZ42XmvyFHg&usqp=CAU)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Angular.
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: ANGULAR / C#/ JS / HTML / CSS / SQL
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on CarRental-Front-End 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denizbilgin)  
-
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denizbilgin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/denizbilgin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/denizb04/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/denizb04)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=denizbilgin)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=denizbilgin)  
 
 ![Profile views](https://gpvc.arturio.dev/denizbilgin)  
