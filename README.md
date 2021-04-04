@@ -15,3 +15,10 @@ Skills: ANGULAR / C#/ JS / HTML / CSS / SQL
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/denizbilgin)    
+
+# My Finished Projects
+
+## Car Rental
+
+C# [Backend](https://github.com/denizbilgin/CarRental)
+Angular [Frontend](https://github.com/denizbilgin/CarRental-Front-End) 
