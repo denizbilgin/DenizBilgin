@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Deniz
-#### Developer
+#### Software Developer
 ![Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUYt4k-ZIbakIlAb2KumaLY0ZJZ42XmvyFHg&usqp=CAU)
 
 I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Angular.
