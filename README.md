@@ -4,7 +4,7 @@
 
 I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Angular.
 
-Skills: ANGULAR / C#/ JS / HTML / CSS / SQL
+Skills: ANGULAR / C# / JS / TS / HTML / CSS / SQL / Java
 
 - 🔭 I’m currently working on CarRental-Front-End 
 
