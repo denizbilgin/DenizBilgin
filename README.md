@@ -9,7 +9,7 @@ Skills: ANGULAR / C# / JS / TS / HTML / CSS / SQL / Java
 - 🔭 I’m currently working on HRMS
 
 
-# My Finished Projects
+# Completed Projects
 
 
 ## Car Rental
