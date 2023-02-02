@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Deniz
 #### Software Developer
-![Developer](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDh5nLJGCVsmw1KGmm8wNylZ0NOTefBPhLcw&usqp=CAU)
+![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Java.
 
-Skills: ANGULAR / C# / JS / TS / HTML / CSS / SQL / Java
+Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS / SQL
 
-- 🔭 I’m currently working on HRMS
+- 🔭 I’m currently working on Machine Learning
 
 
 # Completed Projects
