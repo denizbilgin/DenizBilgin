@@ -2,7 +2,7 @@
 #### Software Developer
 ![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
-I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Java.
+I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Artificial Intelligence.
 
 Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS / SQL
 
