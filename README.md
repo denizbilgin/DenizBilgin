@@ -8,6 +8,13 @@ Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS /
 
 - 🔭 I’m currently working on Machine Learning
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/denizbilgin)    
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denizbilgin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deniz-bilgin-763177207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/denizb04/)
 
 # Completed Projects
 
@@ -27,10 +34,4 @@ React [Frontend](https://github.com/denizbilgin/HRMS-Frontend)
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/denizbilgin)    
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denizbilgin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deniz-bilgin-763177207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/denizb04/)
