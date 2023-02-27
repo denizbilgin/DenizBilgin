@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Deniz
-#### Software Developer
+#### Junior Software Developer
 ![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Artificial Intelligence.
