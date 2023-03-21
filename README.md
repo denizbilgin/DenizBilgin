@@ -23,7 +23,7 @@ Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS /
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/denizbilgin)    
+![Profile views](https://profile-counter.glitch.me/denizbilgin/count.svg)    
 
 
 # Completed Projects
