@@ -1,5 +1,12 @@
 ### Hi there 👋, my name is Deniz
 #### Junior Software Developer
+---
+<p align='center'>
+ <a href="mailto:mervegundogmus@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href="https://www.linkedin.com/in/mervegundogmus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/gundogmusmerve"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;  
+<a href="https://www.hackerrank.com/mervegundogmus"><img src="https://img.shields.io/badge/hackerrank-00CC66.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />      
+---
 ![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Artificial Intelligence.
