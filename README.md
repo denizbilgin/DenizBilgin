@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<h2 align='center'> Hi there 👋, I'm Deniz Bilgin :technologist: </h2>
+<h2 align='center'> Hi there 👋, I'm Deniz Bilgin 💻: </h2>
 ---
 <p align='center'>
  <a href="mailto:denizbilgin156@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
