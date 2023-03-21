@@ -3,8 +3,6 @@
 <h2 align='center'> Hi there 👋, I'm Deniz Bilgin 💻 </h2>
  
  
----
- 
 <p align='center'>
  <a href="mailto:denizbilgin156@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/denizbilgin0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -27,8 +25,6 @@ Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS /
 
 ![Profile views](https://gpvc.arturio.dev/denizbilgin)    
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denizbilgin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/deniz-bilgin-763177207/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/denizb04/)
 
 # Completed Projects
 
