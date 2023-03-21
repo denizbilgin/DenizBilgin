@@ -18,10 +18,13 @@ I'm from Turkey. I'm half developer and half student. I love learning something 
 
 Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS / SQL
 
-- 🔭 I’m currently working on Machine Learning
+🔭 I’m currently working on Machine Learning
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true)  
+<div align="height">
+  <a href="https://github.com/denizbilgin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=denizbilgin&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=denizbilgin&theme=dark&layout=compact"/>
+</div> 
 
 ![Profile views](https://profile-counter.glitch.me/denizbilgin/count.svg)    
 
