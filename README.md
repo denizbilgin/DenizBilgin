@@ -19,7 +19,7 @@ I'm from Turkey. I'm half developer and half student. I love learning something 
 ---
 #### 🛠 Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,mysql,mongodb,idea,eclipse,vscode,git)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,js,react,html,css,idea,eclipse,vscode,git)](https://skillicons.dev) 
  
 ---
 
