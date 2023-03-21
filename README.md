@@ -16,7 +16,12 @@
 
 I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Artificial Intelligence.
 
-Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS / SQL
+---
+#### 🛠 Technology Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,react,html,css,mysql,mongodb,idea,eclipse,vscode,git)](https://skillicons.dev) 
+ 
+---
 
 🔭 I’m currently working on Machine Learning
 
