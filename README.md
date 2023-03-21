@@ -16,7 +16,7 @@
 
 I'm from Turkey. I'm half developer and half student.
  
-Currently I'm working on Machine Learning.
+🔭 Currently I'm working on Machine Learning.
 
 ---
 #### 🛠 Technology Stack
@@ -25,7 +25,6 @@ Currently I'm working on Machine Learning.
  
 ---
 
-🔭 I’m currently working on Machine Learning
 
 <div align="height">
   <a href="https://github.com/denizbilgin">
