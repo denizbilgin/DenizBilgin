@@ -27,8 +27,11 @@ Skills: Python / Machine Learning / Java / ANGULAR / C# / JS / TS / HTML / CSS /
 </div> 
 
 ![Profile views](https://profile-counter.glitch.me/denizbilgin/count.svg)    
-
-
+ 
+ 
+ ---
+ 
+ 
 # Completed Projects
 
 
