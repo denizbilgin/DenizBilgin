@@ -7,7 +7,9 @@
 <a href="https://twitter.com/gundogmusmerve"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;  
 <a href="https://www.hackerrank.com/mervegundogmus"><img src="https://img.shields.io/badge/hackerrank-00CC66.svg?&style=for-the-badge&logo=hackerrank&logoColor=white" />      
 ---
-![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+
+ 
+ ![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Artificial Intelligence.
 
