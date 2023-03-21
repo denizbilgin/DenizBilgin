@@ -14,7 +14,9 @@
  
  ![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
-I'm from Turkey. I'm half developer and half student. I love learning something and now I'm learning Artificial Intelligence.
+I'm from Turkey. I'm half developer and half student.
+ 
+Currently I'm working on Machine Learning.
 
 ---
 #### 🛠 Technology Stack
