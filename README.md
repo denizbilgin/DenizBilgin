@@ -33,7 +33,6 @@ I'm from Turkey. I'm half developer and half student.
 </div> 
 
 
- ![Profile views](https://profile-counter.glitch.me/denizbilgin/count.svg)    
  
  
  ---
