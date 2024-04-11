@@ -47,14 +47,14 @@ Deep Learning/Computer Vision [Code](https://github.com/denizbilgin/Google-Maps-
 
 Academic Paper [Paper](https://ybsansiklopedi.com/wp-content/uploads/2023/08/deniz_bilgin_googlemaps.pdf)
 
-** Used Techs: Python, Tensorflow/Keras **
+**Used Techs: Python, Tensorflow/Keras**
 
 
 ## Human Speech Analysis
 
 Deep Learning/Computer Vision/Voice Processing [Code](https://github.com/denizbilgin/Human-Speech-Analysis)
 
-** Used Techs: Python, Tensorflow/Keras **
+**Used Techs: Python, Tensorflow/Keras**
 
 
 
