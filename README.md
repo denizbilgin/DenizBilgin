@@ -16,7 +16,7 @@
 
 I'm from Turkey. I'm half developer and half student.
  
-🔭 Currently I'm working on Machine Learning.
+🔭 Currently I'm working on [Human Speech Analysis Project](https://github.com/denizbilgin/Human-Speech-Analysis).
 
 ---
 #### 🛠 Technology Stack
@@ -41,17 +41,20 @@ I'm from Turkey. I'm half developer and half student.
 # Completed Projects
 
 
-## Car Rental
+## Google Maps Reviews Categorization and Analysis
 
-C# [Backend](https://github.com/denizbilgin/CarRental)
+Deep Learning/Computer Vision [Code](https://github.com/denizbilgin/Google-Maps-Reviews-Categorization-And-Analysis)
 
-Angular [Frontend](https://github.com/denizbilgin/CarRental-Front-End)
+Academic Paper [Paper](https://ybsansiklopedi.com/wp-content/uploads/2023/08/deniz_bilgin_googlemaps.pdf)
 
-## Human Resources Management System
+### Used Techs: Python, Tensorflow/Keras
 
-Java (Spring Boot) [Backend](https://github.com/denizbilgin/HRMS)
 
-React [Frontend](https://github.com/denizbilgin/HRMS-Frontend)
+## Human Speech Analysis
+
+Deep Learning/Computer Vision/Voice Processing [Code](https://github.com/denizbilgin/Human-Speech-Analysis)
+
+### Used Techs: Python, Tensorflow/Keras
 
 
 
