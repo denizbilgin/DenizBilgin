@@ -50,6 +50,7 @@ Academic Paper [Paper](https://ybsansiklopedi.com/wp-content/uploads/2023/08/den
 **Used Techs: Python, Tensorflow/Keras**
 
 
+
 ## Human Speech Analysis
 
 Deep Learning/Computer Vision/Voice Processing [Code](https://github.com/denizbilgin/Human-Speech-Analysis)
