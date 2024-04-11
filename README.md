@@ -38,7 +38,7 @@ I'm from Turkey. I'm half developer and half student.
  ---
  
  
-# Completed Projects
+# Projects
 
 
 ## Google Maps Reviews Categorization and Analysis
