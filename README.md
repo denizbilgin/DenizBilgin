@@ -43,7 +43,7 @@ I'm from Turkey. I'm half developer and half student.
 
 ## Google Maps Reviews Categorization and Analysis
 
-Deep Learning/Computer Vision [Code](https://github.com/denizbilgin/Google-Maps-Reviews-Categorization-And-Analysis)
+Deep Learning/Computer Vision/Analysis [Code](https://github.com/denizbilgin/Google-Maps-Reviews-Categorization-And-Analysis)
 
 Academic Paper [Paper](https://ybsansiklopedi.com/wp-content/uploads/2023/08/deniz_bilgin_googlemaps.pdf)
 
@@ -59,5 +59,9 @@ Deep Learning/Computer Vision/Voice Processing [Code](https://github.com/denizbi
 
 
 
+## EvoluEarth
 
+Deep Learning/Computer Vision [Code](https://github.com/denizbilgin/EvoluEarth)
+
+**Used Techs: Python, Tensorflow/Keras**
 
