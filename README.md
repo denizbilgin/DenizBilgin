@@ -16,7 +16,7 @@
 
 I'm from Turkey. I'm half developer and half student.
  
-🔭 Currently I'm working on [Human Speech Analysis Project](https://github.com/denizbilgin/Human-Speech-Analysis).
+🔭 Currently I'm working on AllerGeo (not ready to be public).
 
 ---
 #### 🛠 Technology Stack
