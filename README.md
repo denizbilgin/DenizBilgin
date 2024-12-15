@@ -51,11 +51,11 @@ Academic Paper [Paper](https://ybsansiklopedi.com/wp-content/uploads/2023/08/den
 
 
 
-## Human Speech Analysis
+## Neural Network Library
 
-Deep Learning/Computer Vision/Voice Processing [Code](https://github.com/denizbilgin/Human-Speech-Analysis)
+Deep Learning [Code](https://github.com/denizbilgin/NeuralNetworkLibrary)
 
-**Used Techs: Python, Tensorflow/Keras**
+**Used Techs: Python, NumPy**
 
 
 
