@@ -14,14 +14,14 @@
  
  ![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
-I'm from Turkey. I'm half developer and half student.
+I'm from Turkey. I'm a new graduated AI enthusiast
  
-🔭 Currently I'm working on AllerGeo (not ready to be public).
+🔭 Currently I'm working on AllerGeo, that will be published in 2025 summer.
 
 ---
 #### 🛠 Technology Stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,c,cs,spring,dotnet,js,react,angular,html,css,git,postgres)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,java,c,cs,spring,dotnet,js,react,angular,html,css,git,postgres,django,selenium,flutter,aws,r)](https://skillicons.dev) 
  
 ---
 
