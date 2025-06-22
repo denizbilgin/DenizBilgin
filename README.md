@@ -41,6 +41,18 @@ I'm from Turkey. I'm half developer and half student.
 # Projects
 
 
+## AllerGeo
+
+Deep Learning/Analysis/Backend/Mobile 
+
+[Django Backend](https://github.com/denizbilgin/AllerGeoBackend)
+
+[Flutter Frontend](https://github.com/denizbilgin/AllerGeoFrontend)
+
+
+**Used Techs: Python, Tensorflow/Keras, LSTM, Django, PostgreSQL, Flutter, Selenium, Pandas**
+
+
 ## Google Maps Reviews Categorization and Analysis
 
 Deep Learning/Computer Vision/Analysis [Code](https://github.com/denizbilgin/Google-Maps-Reviews-Categorization-And-Analysis)
@@ -48,7 +60,6 @@ Deep Learning/Computer Vision/Analysis [Code](https://github.com/denizbilgin/Goo
 Academic Paper [Paper](https://ybsansiklopedi.com/wp-content/uploads/2023/08/deniz_bilgin_googlemaps.pdf)
 
 **Used Techs: Python, Tensorflow/Keras**
-
 
 
 ## Neural Network Library
