@@ -14,7 +14,7 @@
  
  ![Developer](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
-I'm from Turkey. I'm a new graduated AI enthusiast
+I'm from Turkey. I'm a Mid AI/ML Engineer
  
 🔭 Currently I'm working on AllerGeo, that will be published in 2025 summer.
 
