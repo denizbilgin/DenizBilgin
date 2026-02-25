@@ -6,9 +6,6 @@
 <p align='center'>
  <a href="mailto:denizbilgin156@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://www.linkedin.com/in/denizbilgin0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/denizb04"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /</a>&nbsp;&nbsp;&nbsp;&nbsp;  
- 
- 
 ---
 
  
@@ -16,7 +13,7 @@
 
 I'm from Turkey. I'm a Mid AI/ML Engineer
  
-🔭 Currently I'm working on AllerGeo, that will be published in 2025 summer.
+🔭 Currently I'm working on AllerGeo, that will be published in 2026 summer.
 
 ---
 #### 🛠 Technology Stack
